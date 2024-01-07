@@ -55,5 +55,5 @@ Zadanie 2
 <div>Powiedz mi coś na uszko."</div>
 <div>"Nic nie powiem, boś ty plotkarz,</div>
 <div>Powtórzysz każdemu, kogo spotkasz."</div>
-
+<br>
 <a href='https://pksltzn.github.io/dane/'> Strona Główna </a> <br>
